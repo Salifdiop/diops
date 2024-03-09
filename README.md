@@ -73,5 +73,3 @@
             <td>TP Groupe 2</td>
        </tr>
     </table>
-</body>
-</html>
